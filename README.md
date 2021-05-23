@@ -1,4 +1,5 @@
 
+<img align="center" src="https://github.com/abhishekdh/abhishekdh/blob/master/images/posters/poster_2.png" alt="abhishekdh" />
 <h1 align="center">Hi 👋, I'm Abhishek Dhoundiyal</h1>
 <h3 align="center">A passionate QA Automation Engineer from India</h3>
 
