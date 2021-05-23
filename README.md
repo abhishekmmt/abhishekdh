@@ -49,8 +49,8 @@
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- Medium Post Updater:START -->
+<!-- Medium Post Updater:END -->
 
 
 
