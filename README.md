@@ -29,6 +29,7 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekdh&show_icons=true&locale=en&layout=compact" alt="abhishekdh" /></p>
 
 <p align="left">
@@ -101,7 +102,7 @@
 <!-- Medium Post Updater:END -->
 
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdh" alt="abhishekdh" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekdh&show_icons=true&locale=en" alt="abhishekdh" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdh&" alt="abhishekdh"/></p>
