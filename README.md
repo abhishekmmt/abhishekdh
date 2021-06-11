@@ -96,11 +96,11 @@
 
 ### Blogs posts
 <!-- Medium Post Updater:START -->
+- [How to Mock API Server in Postman](https://abhishekdh.medium.com/how-to-mock-api-server-in-postman-ed07a288ce48?source=rss-f012088072ac------2)
 - [Common mistakes & Creating powerful Debuggable report for Selenium](https://abhishekdh.medium.com/common-mistakes-creating-powerful-debuggable-report-for-selenium-362017a96c4e?source=rss-f012088072ac------2)
 - [The hidden classes no one knows about which help you locate the elements in Selenium.](https://abhishekdh.medium.com/the-hidden-classes-no-one-knows-about-which-help-you-locate-the-elements-in-selenium-a012c2160c87?source=rss-f012088072ac------2)
 - [How Selenium WebDriver overcomes Same Origin Policy](https://abhishekdh.medium.com/how-selenium-webdriver-overcomes-same-origin-policy-48bf7128de91?source=rss-f012088072ac------2)
 - [How to modify the website language using selenium python bindings.](https://abhishekdh.medium.com/how-to-modify-the-website-language-using-selenium-python-bindings-780c2211324d?source=rss-f012088072ac------2)
-- [JAVA Test Automation Best Practices](https://abhishekdh.medium.com/java-test-automation-best-practices-eb8a441fa02?source=rss-f012088072ac------2)
 <!-- Medium Post Updater:END -->
 
 
