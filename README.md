@@ -1,6 +1,6 @@
 
 <img align="center" src="https://github.com/abhishekdh/abhishekdh/blob/master/images/posters/poster_2.png" alt="abhishekdh" />
-<h1 align="center">Hi 👋, I'm Abhishek Dhoundiyal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" style="max-width:100%;"> I'm Abhishek Dhoundiyal</h1>
 <h3 align="center">A passionate QA Automation Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdh" /> </p>
