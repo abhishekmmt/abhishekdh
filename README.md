@@ -96,11 +96,11 @@
 
 ### Blogs posts
 <!-- Medium Post Updater:START -->
+- [Selenium Get, Capture & display the validation error message.](https://abhishekdh.medium.com/selenium-get-capture-display-the-validation-error-message-90a0df84eb?source=rss-f012088072ac------2)
+- [Best way to use scrollIntoView in Selenium using JavascriptExecutor](https://abhishekdh.medium.com/best-way-to-use-scrollintoview-in-selenium-using-javascriptexecutor-f53518c5beed?source=rss-f012088072ac------2)
 - [Accessibility Automation testing using Deque axe-core SeleniumAPI](https://abhishekdh.medium.com/accessibility-automation-testing-using-deque-axe-core-seleniumapi-c3e63a98575a?source=rss-f012088072ac------2)
 - [How to Mock API Server in Postman](https://abhishekdh.medium.com/how-to-mock-api-server-in-postman-ed07a288ce48?source=rss-f012088072ac------2)
 - [Common mistakes & Creating powerful Debuggable report for Selenium](https://abhishekdh.medium.com/common-mistakes-creating-powerful-debuggable-report-for-selenium-362017a96c4e?source=rss-f012088072ac------2)
-- [The hidden classes no one knows about which help you locate the elements in Selenium.](https://abhishekdh.medium.com/the-hidden-classes-no-one-knows-about-which-help-you-locate-the-elements-in-selenium-a012c2160c87?source=rss-f012088072ac------2)
-- [How Selenium WebDriver overcomes Same Origin Policy](https://abhishekdh.medium.com/how-selenium-webdriver-overcomes-same-origin-policy-48bf7128de91?source=rss-f012088072ac------2)
 <!-- Medium Post Updater:END -->
 
 
