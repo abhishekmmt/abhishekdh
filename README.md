@@ -96,11 +96,11 @@
 
 ### Blogs posts
 <!-- Medium Post Updater:START -->
+- [Using TestNG @Factory Annotation with @Dataprovider](https://abhishekdh.medium.com/using-testng-factory-annotation-with-dataprovider-706e28e96f3b?source=rss-f012088072ac------2)
 - [Implementing Download Restrictions on Selenium Chromedriver](https://abhishekdh.medium.com/implementing-download-restrictions-on-selenium-chromedriver-8792afdd016d?source=rss-f012088072ac------2)
 - [How to set Download Directory Path in Chrome & Firefox](https://abhishekdh.medium.com/how-to-set-download-directory-path-in-chrome-firefox-7802d63a8376?source=rss-f012088072ac------2)
 - [How to define Test Timeout in TestNG](https://abhishekdh.medium.com/how-to-define-test-timeout-in-testng-8bb105ab2245?source=rss-f012088072ac------2)
 - [How to Read Column Wise Data from Excel File-Apache POI](https://abhishekdh.medium.com/reading-excel-data-column-wise-7c418a97b8a5?source=rss-f012088072ac------2)
-- [Selenium Get, Capture & display the validation error message.](https://abhishekdh.medium.com/selenium-get-capture-display-the-validation-error-message-90a0df84eb?source=rss-f012088072ac------2)
 <!-- Medium Post Updater:END -->
 
 
