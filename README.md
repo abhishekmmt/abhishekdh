@@ -96,11 +96,11 @@
 
 ### Blogs posts
 <!-- Medium Post Updater:START -->
+- [TestNG - Passing ArrayList and Map in @Test method via @Dataprovider](https://abhishekdh.medium.com/testng-passing-arraylist-and-map-in-test-method-via-dataprovider-5167344bdb7f?source=rss-f012088072ac------2)
 - [Using TestNG @Factory Annotation with @Dataprovider](https://abhishekdh.medium.com/using-testng-factory-annotation-with-dataprovider-706e28e96f3b?source=rss-f012088072ac------2)
 - [Implementing Download Restrictions on Selenium Chromedriver](https://abhishekdh.medium.com/implementing-download-restrictions-on-selenium-chromedriver-8792afdd016d?source=rss-f012088072ac------2)
 - [How to set Download Directory Path in Chrome & Firefox](https://abhishekdh.medium.com/how-to-set-download-directory-path-in-chrome-firefox-7802d63a8376?source=rss-f012088072ac------2)
 - [How to define Test Timeout in TestNG](https://abhishekdh.medium.com/how-to-define-test-timeout-in-testng-8bb105ab2245?source=rss-f012088072ac------2)
-- [How to Read Column Wise Data from Excel File-Apache POI](https://abhishekdh.medium.com/reading-excel-data-column-wise-7c418a97b8a5?source=rss-f012088072ac------2)
 <!-- Medium Post Updater:END -->
 
 
