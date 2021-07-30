@@ -96,7 +96,7 @@
 
 ### Blogs posts
 <!-- Medium Post Updater:START -->
-- [Utilizing the Java 8 Parallel Stream for faster Results in Selenium Automation](https://abhishekdh.medium.com/utilizing-the-java-8-parallel-stream-for-faster-results-in-selenium-automation-d68ab19204ee?source=rss-f012088072ac------2)
+- [Utilizing the Java 8 Parallel Stream for faster Results in Selenium Automation](https://medium.com/geekculture/utilizing-the-java-8-parallel-stream-for-faster-results-in-selenium-automation-d68ab19204ee?source=rss-f012088072ac------2)
 - [TestNG - Passing ArrayList and Map in @Test method via @Dataprovider](https://abhishekdh.medium.com/testng-passing-arraylist-and-map-in-test-method-via-dataprovider-5167344bdb7f?source=rss-f012088072ac------2)
 - [Using TestNG @Factory Annotation with @Dataprovider](https://abhishekdh.medium.com/using-testng-factory-annotation-with-dataprovider-706e28e96f3b?source=rss-f012088072ac------2)
 - [Implementing Download Restrictions on Selenium Chromedriver](https://abhishekdh.medium.com/implementing-download-restrictions-on-selenium-chromedriver-8792afdd016d?source=rss-f012088072ac------2)
