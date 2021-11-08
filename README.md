@@ -100,7 +100,7 @@
 - [TestNG - Passing ArrayList and Map in @Test method via @Dataprovider](https://medium.com/geekculture/testng-passing-arraylist-and-map-in-test-method-via-dataprovider-5167344bdb7f?source=rss-f012088072ac------2)
 - [Using TestNG @Factory Annotation with @Dataprovider](https://medium.com/geekculture/using-testng-factory-annotation-with-dataprovider-706e28e96f3b?source=rss-f012088072ac------2)
 - [Implementing Download Restrictions on Selenium Chromedriver](https://medium.com/geekculture/implementing-download-restrictions-on-selenium-chromedriver-8792afdd016d?source=rss-f012088072ac------2)
-- [How to set Download Directory Path in Chrome & Firefox](https://medium.com/geekculture/how-to-set-download-directory-path-in-chrome-firefox-7802d63a8376?source=rss-f012088072ac------2)
+- [How to set Download Directory Path in Chrome &amp; Firefox](https://medium.com/geekculture/how-to-set-download-directory-path-in-chrome-firefox-7802d63a8376?source=rss-f012088072ac------2)
 <!-- Medium Post Updater:END -->
 
 
